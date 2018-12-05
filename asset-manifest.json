@@ -1,13 +1,13 @@
 {
-  "main.css": "/static/css/main.2453b6d8.chunk.css",
-  "main.js": "/static/js/main.18f9cb21.chunk.js",
-  "main.js.map": "/static/js/main.18f9cb21.chunk.js.map",
-  "static/js/1.bef273fe.chunk.js": "/static/js/1.bef273fe.chunk.js",
-  "static/js/1.bef273fe.chunk.js.map": "/static/js/1.bef273fe.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
-  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "static/css/main.2453b6d8.chunk.css.map": "/static/css/main.2453b6d8.chunk.css.map",
-  "index.html": "/index.html",
-  "precache-manifest.2c0428a6a621dd518d593eefd063fd61.js": "/precache-manifest.2c0428a6a621dd518d593eefd063fd61.js",
-  "service-worker.js": "/service-worker.js"
+  "main.css": "/dairyReact/static/css/main.2453b6d8.chunk.css",
+  "main.js": "/dairyReact/static/js/main.18f9cb21.chunk.js",
+  "main.js.map": "/dairyReact/static/js/main.18f9cb21.chunk.js.map",
+  "static/js/1.bef273fe.chunk.js": "/dairyReact/static/js/1.bef273fe.chunk.js",
+  "static/js/1.bef273fe.chunk.js.map": "/dairyReact/static/js/1.bef273fe.chunk.js.map",
+  "runtime~main.js": "/dairyReact/static/js/runtime~main.5195b7ef.js",
+  "runtime~main.js.map": "/dairyReact/static/js/runtime~main.5195b7ef.js.map",
+  "static/css/main.2453b6d8.chunk.css.map": "/dairyReact/static/css/main.2453b6d8.chunk.css.map",
+  "index.html": "/dairyReact/index.html",
+  "precache-manifest.b9795486cd621b4cd8426ee0766a7c9b.js": "/dairyReact/precache-manifest.b9795486cd621b4cd8426ee0766a7c9b.js",
+  "service-worker.js": "/dairyReact/service-worker.js"
 }
