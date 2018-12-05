@@ -2,8 +2,9 @@
   "name": "mydairy",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://mikele11.github.io/dairyReact/",
+  "homepage": "https://Mikele11.github.io/dairyReact/",
   "dependencies": {
+    "gh-pages": "^2.0.1",
     "jquery": "^3.3.1",
     "prop-types": "^15.6.2",
     "react": "^16.6.3",
